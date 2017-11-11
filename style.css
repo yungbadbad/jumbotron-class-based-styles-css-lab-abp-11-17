@@ -54,15 +54,15 @@ div.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
   text-align: center;
-  padding: 10px;
+  padding: 10px
 }
 
 div.jumbotron h1{
-  font-size: 60px;
+  font-size: 60px
 }
 
 div.jumbotron p{
   font-size: 20px;
   padding: 0 40px 0 40px;
-  line-height: 40px;
+  line-height: 40px
 }
