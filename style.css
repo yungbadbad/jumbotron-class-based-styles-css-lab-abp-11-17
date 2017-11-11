@@ -57,7 +57,7 @@ div.jumbotron {
   padding: 10px;
 }
 
-div.jumbotron = "h1" {
+div.jumbotron = h1 {
   font-size: 60px;
 }
 
